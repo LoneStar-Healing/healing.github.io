@@ -1,0 +1,5 @@
+# SITE_BASE: keep Sitemap URL in sync with index.html and sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://501c3.github.io/healing.github.io/sitemap.xml
