@@ -1,0 +1,18 @@
+{
+  "once": {
+    "25": "https://buy.stripe.com/test_eVqdRa5KK5B09YK7Yf7Vm0b",
+    "50": "https://buy.stripe.com/test_eVqaEYehg4wWc6S7Yf7Vm0c",
+    "100": "https://buy.stripe.com/test_8x200kflke7w4Eqdiz7Vm0d",
+    "250": "https://buy.stripe.com/test_14A9AU5KK2oO1secev7Vm0e",
+    "500": "https://buy.stripe.com/test_8x2fZi4GG3sS4Eq0vN7Vm0f",
+    "custom": "https://buy.stripe.com/test_fZufZi4GG0gGdaWcev7Vm0m"
+  },
+  "monthly": {
+    "25": "https://buy.stripe.com/test_dRm28sb548Nc4EqemD7Vm0g",
+    "50": "https://buy.stripe.com/test_eVqcN68WWe7wdaW5Q77Vm0h",
+    "100": "https://buy.stripe.com/test_5kQeVegpod3sc6S1zR7Vm0i",
+    "250": "https://buy.stripe.com/test_7sYfZi3CCfbA9YK3HZ7Vm0j",
+    "500": "https://buy.stripe.com/test_cNi9AU4GG7J83Am6Ub7Vm0k",
+    "1000": "https://buy.stripe.com/test_fZu6oIehge7w0oa3HZ7Vm0l"
+  }
+}
